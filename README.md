@@ -33,3 +33,6 @@
   22. react-native
   23. desktop_applications
   24. web_assembly
+
+### 기타
+  - [유튜브 강의 정리노트](./etc/README.md)
