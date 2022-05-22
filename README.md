@@ -8,7 +8,7 @@
 - 목적 : FE에 관해 공부하고 싶었음 -> 따라서, 공부 목적으로 작성
   - 모두 작성이 완료되면 이 repository는 private로 전환하고, 정리된 내용을 github 블로그에 작성할 예정
 
-- 목차 + dir 이름
+### 목차 + dir 이름
   1. 인터넷(internet)
   2. HTML
   3. CSS
